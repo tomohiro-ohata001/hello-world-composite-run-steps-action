@@ -1,4 +1,2 @@
-#!/bin/bash
-
 echo "Goodbye"
-echo ${{ github.action_path }}
+#echo ${{ github.action_path }}
